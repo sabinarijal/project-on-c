@@ -286,7 +286,7 @@ void quiz
     getch(); 
     break;	
     
-   case 7:
+   case 8:
     system("cls");
     printf("\n\n\n\Which quantum number gives the shape of the orbital?\n"); 
     printf("\n\nA.Magnetic \t\tB.Azimuthal\n\nC.\t\tD."); 
